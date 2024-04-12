@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Abyss",
+  "workbench.colorCustomizations": {
+    "window.activeBorder": "#096df058",
+    "titleBar.activeBackground": "#116de67e",
+    "titleBar.inactiveBackground": "#096df034"
+  }
+}
