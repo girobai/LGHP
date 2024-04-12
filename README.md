@@ -24,4 +24,4 @@ Check `dist/` output.
 
 ### every time you push to the `main` branch
 
-check the Github Page <girobai.github.io/lghp>
+check the Github Page <https://girobai.github.io/LGHP/>
